@@ -1,0 +1,11 @@
+.main {
+  background-color: rgba(88, 224, 218, 0.836);
+  text-align: center;
+  height: 80vh;
+}
+.h2 {
+  padding-top: 40px;
+  margin: 0;
+  font-size: 24px;
+  font-weight: 800;
+}
